@@ -1,0 +1,82 @@
+{
+  "20417": {
+    "model": "ThinkPad T14",
+    "os": "Windows 11",
+    "age_years": 2.0,
+    "disk_free_gb": 180,
+    "last_patched": "2026-11-05",
+    "notes": "Uses USB-C dock DK-220"
+  },
+  "20988": {
+    "model": "Dell Latitude 5440",
+    "os": "Windows 11",
+    "age_years": 1.5,
+    "disk_free_gb": 120,
+    "last_patched": "2026-11-02",
+    "notes": ""
+  },
+  "20533": {
+    "model": "HP EliteBook 840",
+    "os": "Windows 11",
+    "age_years": 3.0,
+    "disk_free_gb": 95,
+    "last_patched": "2026-10-30",
+    "notes": "Built-in webcam"
+  },
+  "20215": {
+    "model": "ThinkPad T480",
+    "os": "Windows 10",
+    "age_years": 5.5,
+    "disk_free_gb": 3,
+    "last_patched": "2026-08-14",
+    "notes": "Many startup apps, updates pending"
+  },
+  "20230": {
+    "model": "ThinkPad T14",
+    "os": "Windows 11",
+    "age_years": 2.5,
+    "disk_free_gb": 150,
+    "last_patched": "2026-11-04",
+    "notes": ""
+  },
+  "20810": {
+    "model": "Dell Latitude 5440",
+    "os": "Windows 11",
+    "age_years": 0.1,
+    "disk_free_gb": 220,
+    "last_patched": "2026-11-03",
+    "notes": "New joiner laptop"
+  },
+  "20400": {
+    "model": "MacBook Air M2",
+    "os": "macOS 14",
+    "age_years": 2.0,
+    "disk_free_gb": 210,
+    "last_patched": "2026-11-01",
+    "notes": ""
+  },
+  "20101": {
+    "model": "Dell Latitude 7440",
+    "os": "Windows 11",
+    "age_years": 1.0,
+    "disk_free_gb": 160,
+    "last_patched": "2026-11-06",
+    "notes": ""
+  },
+  "20200": {
+    "model": "MacBook Pro 14",
+    "os": "macOS 14",
+    "age_years": 1.5,
+    "disk_free_gb": 300,
+    "last_patched": "2026-11-06",
+    "notes": ""
+  },
+  "20300": {
+    "model": "Dell Latitude 7440",
+    "os": "Windows 11",
+    "age_years": 2.0,
+    "disk_free_gb": 140,
+    "last_patched": "2026-11-05",
+    "notes": ""
+  }
+}

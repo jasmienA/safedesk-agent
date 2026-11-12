@@ -1,0 +1,135 @@
+{
+  "invoices": {
+    "4471": {
+      "invoice_number": "4471",
+      "customer_id": "20915",
+      "bill_to": "Divya Menon",
+      "amount": 49.0,
+      "date": "2026-11-03",
+      "status": "paid",
+      "description": "Monthly plan"
+    },
+    "4890": {
+      "invoice_number": "4890",
+      "customer_id": "20915",
+      "bill_to": "Divya Menon",
+      "amount": 120.0,
+      "date": "2026-10-12",
+      "status": "paid",
+      "description": "Add-on pack"
+    },
+    "5120": {
+      "invoice_number": "5120",
+      "customer_id": "20917",
+      "bill_to": "Northwind Trading",
+      "amount": 860.0,
+      "date": "2026-10-28",
+      "status": "unpaid",
+      "description": "Team plan"
+    },
+    "5301": {
+      "invoice_number": "5301",
+      "customer_id": "20916",
+      "bill_to": "Anil Kumar",
+      "amount": 1200.0,
+      "date": "2026-11-02",
+      "status": "paid",
+      "description": "Annual plan"
+    },
+    "5410": {
+      "invoice_number": "5410",
+      "customer_id": "20918",
+      "bill_to": "Ravi Teja",
+      "amount": 79.0,
+      "date": "2026-11-09",
+      "status": "payment_failed",
+      "description": "Monthly plan"
+    },
+    "5003": {
+      "invoice_number": "5003",
+      "customer_id": "20919",
+      "bill_to": "Sneha Rao",
+      "amount": 150.0,
+      "date": "2026-05-10",
+      "status": "paid",
+      "description": "Starter pack"
+    }
+  },
+  "payments": [
+    {
+      "payment_id": "pay_9001",
+      "customer_id": "20915",
+      "invoice_number": "4471",
+      "amount": 49.0,
+      "date": "2026-11-03",
+      "status": "succeeded"
+    },
+    {
+      "payment_id": "pay_9002",
+      "customer_id": "20915",
+      "invoice_number": "4471",
+      "amount": 49.0,
+      "date": "2026-11-03",
+      "status": "succeeded"
+    },
+    {
+      "payment_id": "pay_9010",
+      "customer_id": "20915",
+      "invoice_number": "4890",
+      "amount": 120.0,
+      "date": "2026-10-12",
+      "status": "succeeded"
+    },
+    {
+      "payment_id": "pay_9100",
+      "customer_id": "20916",
+      "invoice_number": "5301",
+      "amount": 1200.0,
+      "date": "2026-11-02",
+      "status": "succeeded"
+    },
+    {
+      "payment_id": "pay_9101",
+      "customer_id": "20916",
+      "invoice_number": "5302",
+      "amount": 29.0,
+      "date": "2026-11-04",
+      "status": "succeeded"
+    },
+    {
+      "payment_id": "pay_9200",
+      "customer_id": "20918",
+      "invoice_number": "5410",
+      "amount": 79.0,
+      "date": "2026-11-09",
+      "status": "gateway_failed",
+      "bank_debit_confirmed": true
+    },
+    {
+      "payment_id": "pay_8800",
+      "customer_id": "20919",
+      "invoice_number": "5003",
+      "amount": 150.0,
+      "date": "2026-05-10",
+      "status": "succeeded"
+    }
+  ],
+  "subscriptions": [
+    {
+      "subscription_id": "sub_A1",
+      "customer_id": "20916",
+      "plan": "Annual plan",
+      "price": 1200.0,
+      "status": "active",
+      "started": "2026-11-02"
+    },
+    {
+      "subscription_id": "sub_B7",
+      "customer_id": "20916",
+      "plan": "Monthly plan",
+      "price": 29.0,
+      "status": "active",
+      "started": "2026-11-04"
+    }
+  ]
+}

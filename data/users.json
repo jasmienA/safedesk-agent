@@ -1,0 +1,225 @@
+{
+  "20001": {
+    "id": "20001",
+    "name": "Anita Desai",
+    "email": "anita.desai@acme.example",
+    "title": "Chief Financial Officer",
+    "department": "Finance",
+    "manager_id": null,
+    "status": "active",
+    "type": "employee"
+  },
+  "20002": {
+    "id": "20002",
+    "name": "Vikram Shah",
+    "email": "vikram.shah@acme.example",
+    "title": "Chief Technology Officer",
+    "department": "Engineering",
+    "manager_id": null,
+    "status": "active",
+    "type": "employee"
+  },
+  "20101": {
+    "id": "20101",
+    "name": "Priya Nair",
+    "email": "priya.nair@acme.example",
+    "title": "Finance Manager",
+    "department": "Finance",
+    "manager_id": "20001",
+    "status": "active",
+    "type": "employee"
+  },
+  "20200": {
+    "id": "20200",
+    "name": "Karthik Rao",
+    "email": "karthik.rao@acme.example",
+    "title": "Engineering Manager",
+    "department": "Engineering",
+    "manager_id": "20002",
+    "status": "active",
+    "type": "employee"
+  },
+  "20300": {
+    "id": "20300",
+    "name": "Neha Iyer",
+    "email": "neha.iyer@acme.example",
+    "title": "Support Manager",
+    "department": "Support",
+    "manager_id": "20002",
+    "status": "active",
+    "type": "employee"
+  },
+  "20400": {
+    "id": "20400",
+    "name": "Sunita Joshi",
+    "email": "sunita.joshi@acme.example",
+    "title": "Sales Manager",
+    "department": "Sales",
+    "manager_id": "20001",
+    "status": "active",
+    "type": "employee"
+  },
+  "20417": {
+    "id": "20417",
+    "name": "Meera Reddy",
+    "email": "meera.reddy@acme.example",
+    "title": "Software Engineer",
+    "department": "Engineering",
+    "manager_id": "20200",
+    "status": "active",
+    "type": "employee"
+  },
+  "20533": {
+    "id": "20533",
+    "name": "Carlos Mendez",
+    "email": "carlos.mendez@acme.example",
+    "title": "Support Specialist",
+    "department": "Support",
+    "manager_id": "20300",
+    "status": "active",
+    "type": "employee"
+  },
+  "20988": {
+    "id": "20988",
+    "name": "Rohan Das",
+    "email": "rohan.das@acme.example",
+    "title": "Sales Executive",
+    "department": "Sales",
+    "manager_id": "20400",
+    "status": "active",
+    "type": "employee"
+  },
+  "20611": {
+    "id": "20611",
+    "name": "Arjun Patel",
+    "email": "arjun.patel@acme.example",
+    "title": "Software Engineer",
+    "department": "Engineering",
+    "manager_id": "20200",
+    "status": "on_leave",
+    "type": "employee"
+  },
+  "20350": {
+    "id": "20350",
+    "name": "Rahul Verma",
+    "email": "rahul.verma@acme.example",
+    "title": "Software Engineer",
+    "department": "Engineering",
+    "manager_id": "20200",
+    "status": "terminated",
+    "type": "employee",
+    "end_date": "2026-11-06"
+  },
+  "20810": {
+    "id": "20810",
+    "name": "Ishaan Kapoor",
+    "email": "ishaan.kapoor@acme.example",
+    "title": "Financial Analyst",
+    "department": "Finance",
+    "manager_id": "20101",
+    "status": "active",
+    "type": "employee",
+    "start_date": "2026-11-03"
+  },
+  "20215": {
+    "id": "20215",
+    "name": "Lakshmi Narayan",
+    "email": "lakshmi.narayan@acme.example",
+    "title": "Software Engineer",
+    "department": "Engineering",
+    "manager_id": "20200",
+    "status": "active",
+    "type": "employee"
+  },
+  "20230": {
+    "id": "20230",
+    "name": "Sanjay Menon",
+    "email": "sanjay.menon@acme.example",
+    "title": "Software Engineer",
+    "department": "Engineering",
+    "manager_id": "20200",
+    "status": "active",
+    "type": "employee"
+  },
+  "20702": {
+    "id": "20702",
+    "name": "Sandeep Kumar",
+    "email": "sandeep.kumar@acme.example",
+    "title": "Executive Assistant",
+    "department": "Executive Office",
+    "manager_id": "20001",
+    "status": "active",
+    "type": "employee"
+  },
+  "20915": {
+    "id": "20915",
+    "name": "Divya Menon",
+    "email": "divya.menon@acme.example",
+    "title": "Customer",
+    "department": "Customers",
+    "manager_id": null,
+    "status": "active",
+    "type": "customer"
+  },
+  "20916": {
+    "id": "20916",
+    "name": "Anil Kumar",
+    "email": "anil.kumar@acme.example",
+    "title": "Customer",
+    "department": "Customers",
+    "manager_id": null,
+    "status": "active",
+    "type": "customer"
+  },
+  "20917": {
+    "id": "20917",
+    "name": "Fatima Sheikh",
+    "email": "fatima.sheikh@acme.example",
+    "title": "Customer",
+    "department": "Customers",
+    "manager_id": null,
+    "status": "active",
+    "type": "customer"
+  },
+  "20918": {
+    "id": "20918",
+    "name": "Ravi Teja",
+    "email": "ravi.teja@acme.example",
+    "title": "Customer",
+    "department": "Customers",
+    "manager_id": null,
+    "status": "active",
+    "type": "customer"
+  },
+  "20919": {
+    "id": "20919",
+    "name": "Sneha Rao",
+    "email": "sneha.rao@acme.example",
+    "title": "Customer",
+    "department": "Customers",
+    "manager_id": null,
+    "status": "active",
+    "type": "customer"
+  },
+  "20920": {
+    "id": "20920",
+    "name": "Mohan Das",
+    "email": "mohan.das@acme.example",
+    "title": "Customer",
+    "department": "Customers",
+    "manager_id": null,
+    "status": "active",
+    "type": "customer",
+    "billing_address": "45 Benz Circle, Vijayawada"
+  },
+  "20921": {
+    "id": "20921",
+    "name": "Alex Morgan",
+    "email": "alex.morgan@acme.example",
+    "title": "Customer",
+    "department": "Customers",
+    "manager_id": null,
+    "status": "active",
+    "type": "customer"
+  }
+}

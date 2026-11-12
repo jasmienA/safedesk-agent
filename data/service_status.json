@@ -1,0 +1,30 @@
+{
+  "vpn": {
+    "status": "operational",
+    "note": "All gateways healthy"
+  },
+  "email": {
+    "status": "operational",
+    "note": "No known issues"
+  },
+  "wifi": {
+    "status": "operational",
+    "note": "No known issues"
+  },
+  "printing": {
+    "status": "operational",
+    "note": "Print servers healthy"
+  },
+  "sso": {
+    "status": "operational",
+    "note": "No known issues"
+  },
+  "billing_portal": {
+    "status": "operational",
+    "note": "No known issues"
+  },
+  "intranet": {
+    "status": "major_outage",
+    "note": "Web tier returning 503 since 09:02; Network team notified"
+  }
+}
